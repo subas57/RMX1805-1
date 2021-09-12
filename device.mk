@@ -30,7 +30,7 @@ PRODUCT_PACKAGES += \
     Snap
 
 # Dirac
-$(call inherit-product-if-exists, packages/apps/RealmeDirac/dirac.mk)
+#$(call inherit-product-if-exists, packages/apps/RealmeDirac/dirac.mk)
 
 # Display
 PRODUCT_PACKAGES += \
