@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX1805.mk
+    $(LOCAL_DIR)/Awaken_RMX1805.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_RMX1805-user \
-    aosp_RMX1805-userdebug \
-    aosp_RMX1805-eng
+    Awaken_RMX1805-user \
+    Awaken_RMX1805-userdebug \
+    Awaken_RMX1805-eng
